@@ -1,4 +1,4 @@
-module github.com/dengchendeng/gomodule-test/hello
+module hello
 
 go 1.12
 
